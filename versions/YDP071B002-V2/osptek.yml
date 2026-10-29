@@ -1,0 +1,10 @@
+id: YDP071B002-V2
+category: displays
+size: "0.71"
+panel: tft
+resolution: 160x160
+interface: [spi]
+driver: GC9D01
+touch: null
+outline: 20.12 x 22.3 x 1.81 mm
+active_area: 17.99 x 18.0 mm
